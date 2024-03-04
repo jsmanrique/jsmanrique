@@ -8,5 +8,7 @@ I am a :iphone: mobile tech, :free: FLOSS (Free, Libre, Open Source Software) co
 
 You have more details about me in [my LinkedIn profile](https://linkedin.com/in/jsmanrique).
 
+[![Manrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsmanrique)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact
 You can reach me on [Twitter](https::/twitter.com/jsmanrique) and [Mastodon.social](https://mastodon.social/@jsmanrique).
